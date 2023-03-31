@@ -1,6 +1,6 @@
 Name:		texlive-mathcommand
 Version:	59512
-Release:	1
+Release:	2
 Summary:	\newcommand-like commands for defining math macros
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mathcommand
