@@ -3,7 +3,7 @@ Version:	59512
 Release:	2
 Summary:	\newcommand-like commands for defining math macros
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mathcommand
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/mathcommand
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mathcommand.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mathcommand.doc.r%{version}.tar.xz
